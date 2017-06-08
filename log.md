@@ -7,4 +7,4 @@
 **Thoughts** \_
 
 **Link(s) to work**
-1. [Leetcode 206. Reverse Linked List](bolatov/100-days-of-code@34c83709c302070e5982d1e0c8a10fda4f5126ee)
+1. [Leetcode 206. Reverse Linked List](https://github.com/bolatov/leetcode/commit/34c83709c302070e5982d1e0c8a10fda4f5126ee)
