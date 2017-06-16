@@ -34,3 +34,4 @@
 4. [515. Find Largest Value in Each Tree Row](https://github.com/bolatov/leetcode/commit/518f8cc5d580aaeb839f1b94b20f5a83f2efb956)
 5. [442. Find All Duplicates in an Array](https://github.com/bolatov/leetcode/commit/8225c0619c0a8066bc5e4ef2ba9d5def3658a952)
 6. [448. Find All Numbers Disappeared in an Array](https://github.com/bolatov/leetcode/commit/bb7580ebc9185e6bd4b5aec462f493cacd56f392)
+7. [34. Search for a Range](https://github.com/bolatov/leetcode/commit/6000458cdc95a13f8e2cd002b15a51d87b04f2c5)
