@@ -36,3 +36,4 @@
 6. [448. Find All Numbers Disappeared in an Array](https://github.com/bolatov/leetcode/commit/bb7580ebc9185e6bd4b5aec462f493cacd56f392)
 7. [34. Search for a Range](https://github.com/bolatov/leetcode/commit/6000458cdc95a13f8e2cd002b15a51d87b04f2c5)
 8. [278. First Bad Version](https://github.com/bolatov/leetcode/commit/e0c2b86788a40de4d9e9edc16258a986fd9bedf4)
+9. [35. Search Insert Position](https://github.com/bolatov/leetcode/commit/62801632dc2748794f29c47f64c3eb465bdc3a46)
