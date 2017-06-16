@@ -32,3 +32,4 @@
 2. [557. Reverse Words in a String III](https://github.com/bolatov/leetcode/commit/3247bca6cc90018a53d980ab1cc9a14b8dc3034a)
 3. [606. Construct String from Binary Tree](https://github.com/bolatov/leetcode/commit/807f4b4049d4f32fec534c5ab77387ebb8a05413)
 4. [515. Find Largest Value in Each Tree Row](https://github.com/bolatov/leetcode/commit/518f8cc5d580aaeb839f1b94b20f5a83f2efb956)
+5. [442. Find All Duplicates in an Array](https://github.com/bolatov/leetcode/commit/8225c0619c0a8066bc5e4ef2ba9d5def3658a952)
