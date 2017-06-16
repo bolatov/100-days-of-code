@@ -33,3 +33,4 @@
 3. [606. Construct String from Binary Tree](https://github.com/bolatov/leetcode/commit/807f4b4049d4f32fec534c5ab77387ebb8a05413)
 4. [515. Find Largest Value in Each Tree Row](https://github.com/bolatov/leetcode/commit/518f8cc5d580aaeb839f1b94b20f5a83f2efb956)
 5. [442. Find All Duplicates in an Array](https://github.com/bolatov/leetcode/commit/8225c0619c0a8066bc5e4ef2ba9d5def3658a952)
+6. [448. Find All Numbers Disappeared in an Array](https://github.com/bolatov/leetcode/commit/bb7580ebc9185e6bd4b5aec462f493cacd56f392)
