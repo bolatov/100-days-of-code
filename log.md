@@ -37,3 +37,12 @@
 7. [34. Search for a Range](https://github.com/bolatov/leetcode/commit/6000458cdc95a13f8e2cd002b15a51d87b04f2c5)
 8. [278. First Bad Version](https://github.com/bolatov/leetcode/commit/e0c2b86788a40de4d9e9edc16258a986fd9bedf4)
 9. [35. Search Insert Position](https://github.com/bolatov/leetcode/commit/62801632dc2748794f29c47f64c3eb465bdc3a46)
+
+### Day 4: June 19, Monday
+
+**Today's Progress**: Problem solving
+
+**Thoughts** \_
+
+**Link(s) to work**
+1. [651	Преобразование моноклеточных](https://github.com/bolatov/contests/commit/616c0ce90770e6d1ddcc272f7a7377985d13d537)
