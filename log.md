@@ -46,3 +46,4 @@
 
 **Link(s) to work**
 1. [651	Преобразование моноклеточных](https://github.com/bolatov/contests/commit/616c0ce90770e6d1ddcc272f7a7377985d13d537)
+2. [Down to Zero II](https://github.com/bolatov/contests/commit/1ea74be5fc2dab58e63d0035b4636d500f0706b9)
