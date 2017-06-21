@@ -37,3 +37,4 @@
 
 **Link(s) to work**
 1. [Leetcode 64. Minimum Path Sum](https://github.com/bolatov/leetcode/commit/457fb7dce757401453017716b3b936fb02fa3479)
+2. [48. Rotate Image](https://github.com/bolatov/leetcode/commit/d7b38e5ee58e8312daba38dfb5b3dc4e9fabb935)
