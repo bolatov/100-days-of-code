@@ -48,3 +48,12 @@
 1. [ACMP 651	Преобразование моноклеточных](https://github.com/bolatov/contests/commit/616c0ce90770e6d1ddcc272f7a7377985d13d537)
 2. [HackerRank Down to Zero II](https://github.com/bolatov/contests/commit/1ea74be5fc2dab58e63d0035b4636d500f0706b9)
 3. [Leetcode 450. Delete Node in a BST](https://github.com/bolatov/leetcode/commit/12c6c5c0552a419b35712c13eb129447a00939d4)
+
+### Day 5: June 21, Wednesday
+
+**Today's Progress**: Problem solving
+
+**Thoughts** \_
+
+**Link(s) to work**
+1. [Leetcode 64. Minimum Path Sum](https://github.com/bolatov/leetcode/commit/457fb7dce757401453017716b3b936fb02fa3479)
