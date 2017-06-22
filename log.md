@@ -44,3 +44,4 @@
 
 **Link(s) to work**
 1. [Leetcode 78 Subsets](https://github.com/bolatov/leetcode/commit/cd6826e63388822eb47a775b66722b7fba2ede6f)
+2. [Leetcode 54 Spiral Matrix](https://github.com/bolatov/leetcode/commit/10f47b423d3171d82b4b82bcb6992b7ee413a6b4)
