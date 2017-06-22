@@ -39,9 +39,9 @@
 1. [Leetcode 64. Minimum Path Sum](https://github.com/bolatov/leetcode/commit/457fb7dce757401453017716b3b936fb02fa3479)
 2. [Leetcode 48. Rotate Image](https://github.com/bolatov/leetcode/commit/d7b38e5ee58e8312daba38dfb5b3dc4e9fabb935)
 
-
 ### Day 6: June 22, Thursday
 
 **Link(s) to work**
 1. [Leetcode 78 Subsets](https://github.com/bolatov/leetcode/commit/cd6826e63388822eb47a775b66722b7fba2ede6f)
 2. [Leetcode 54 Spiral Matrix](https://github.com/bolatov/leetcode/commit/10f47b423d3171d82b4b82bcb6992b7ee413a6b4)
+3. [Leetcode 22. Generate Parentheses](https://github.com/bolatov/leetcode/commit/4912c1351164e81c4ce9442caf62e9050e4bc497)
