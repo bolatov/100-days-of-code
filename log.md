@@ -47,3 +47,4 @@
 3. [Leetcode 22. Generate Parentheses](https://github.com/bolatov/leetcode/commit/4912c1351164e81c4ce9442caf62e9050e4bc497)
 4. [Leetcode 17. Letter Combinations of a Phone Number](https://github.com/bolatov/leetcode/commit/90229d6079da2e880f09ff28d63ee4cdd3557db3)
 5. [Leetcode 61. Rotate List](https://github.com/bolatov/leetcode/commit/1eecc6ba113ff35dfb2a6ab8d02b6d148bdd1794)
+6. [Leetcode 31. Next Permutation](https://github.com/bolatov/leetcode/commit/34ddc0d57707298b4b48706d32fa4c5e504d69d9)
