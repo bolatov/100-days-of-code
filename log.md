@@ -48,3 +48,8 @@
 4. [Leetcode 17. Letter Combinations of a Phone Number](https://github.com/bolatov/leetcode/commit/90229d6079da2e880f09ff28d63ee4cdd3557db3)
 5. [Leetcode 61. Rotate List](https://github.com/bolatov/leetcode/commit/1eecc6ba113ff35dfb2a6ab8d02b6d148bdd1794)
 6. [Leetcode 31. Next Permutation](https://github.com/bolatov/leetcode/commit/34ddc0d57707298b4b48706d32fa4c5e504d69d9)
+
+### Day 7: June 23, Friday
+
+**Link(s) to work**
+1. [Leetcode 46. Permutations](https://github.com/bolatov/leetcode/commit/c688058dee4a0602053372ebcfaa01e57b5ae11d)
