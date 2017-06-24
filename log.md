@@ -53,3 +53,8 @@
 
 **Link(s) to work**
 1. [Leetcode 46. Permutations](https://github.com/bolatov/leetcode/commit/c688058dee4a0602053372ebcfaa01e57b5ae11d)
+
+### Day 8: June 24, Saturday
+
+**Link(s) to work**
+1. [Leetcode 98. Validate Binary Search Tree](https://github.com/bolatov/leetcode/commit/3168fff0ed6c973fdd94940f3a68dfe0458dc444)
