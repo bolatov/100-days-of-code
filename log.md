@@ -58,3 +58,9 @@
 
 **Link(s) to work**
 1. [Leetcode 98. Validate Binary Search Tree](https://github.com/bolatov/leetcode/commit/3168fff0ed6c973fdd94940f3a68dfe0458dc444)
+
+
+### Day 9: June 27, Tuesday
+
+**Link(s) to work**
+1. [Leetcode 94. Binary Tree Inorder Traversal](https://github.com/bolatov/leetcode/commit/3115a51740baba0b7a444020802faefbe6c668af)
