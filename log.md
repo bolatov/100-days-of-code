@@ -64,3 +64,9 @@
 
 **Link(s) to work**
 1. [Leetcode 94. Binary Tree Inorder Traversal](https://github.com/bolatov/leetcode/commit/3115a51740baba0b7a444020802faefbe6c668af)
+
+
+### Day 10: June 28, Wednesday
+
+**Link(s) to work**
+1. [144. Binary Tree Preorder Traversal](https://github.com/bolatov/leetcode/commit/f9409c3962e90756e167963248ab6c5fdcbeeca1)
