@@ -69,4 +69,9 @@
 ### Day 10: June 28, Wednesday
 
 **Link(s) to work**
-1. [144. Binary Tree Preorder Traversal](https://github.com/bolatov/leetcode/commit/f9409c3962e90756e167963248ab6c5fdcbeeca1)
+1. [Leetcode 144. Binary Tree Preorder Traversal](https://github.com/bolatov/leetcode/commit/f9409c3962e90756e167963248ab6c5fdcbeeca1)
+
+### Day 11: June 29, Thursday
+
+**Link(s) to work**
+1. [Leetcode 79. Word Search](https://github.com/bolatov/leetcode/commit/792af0676b5e2ff3d8395b0c1bfc6ce672dbf2a4)
