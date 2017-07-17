@@ -81,3 +81,4 @@
 
 **Link(s) to work**
 1. [Leetcode 60. Permutation Sequence](https://github.com/bolatov/leetcode/commit/bdbe4f0e9b85ba4c80c7315d9708ce84119d6ed5)
+2. [Leetcode 71. Simplify Path](https://github.com/bolatov/leetcode/commit/5d9a25c4a5875f3a8cf3e11972004594f6af8232)
