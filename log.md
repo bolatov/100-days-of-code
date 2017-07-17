@@ -75,3 +75,9 @@
 
 **Link(s) to work**
 1. [Leetcode 79. Word Search](https://github.com/bolatov/leetcode/commit/792af0676b5e2ff3d8395b0c1bfc6ce672dbf2a4)
+
+
+### Day 12: July 17, Monday
+
+**Link(s) to work**
+1. [Leetcode 60. Permutation Sequence](https://github.com/bolatov/leetcode/commit/bdbe4f0e9b85ba4c80c7315d9708ce84119d6ed5)
