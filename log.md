@@ -82,3 +82,9 @@
 **Link(s) to work**
 1. [Leetcode 60. Permutation Sequence](https://github.com/bolatov/leetcode/commit/bdbe4f0e9b85ba4c80c7315d9708ce84119d6ed5)
 2. [Leetcode 71. Simplify Path](https://github.com/bolatov/leetcode/commit/5d9a25c4a5875f3a8cf3e11972004594f6af8232)
+
+### Day 13: July 18, Tuesday
+
+**Link(s) to work**
+1. [Leetcode 2. Add Two Numbers](https://github.com/bolatov/leetcode/commit/f30045d2f2d4557665fe560c3b1c2072624f9f27)
+
