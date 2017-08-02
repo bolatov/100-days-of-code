@@ -98,3 +98,4 @@
 
 **Link(s) to work**
 1. [Leetcode 74. Search a 2D Matrix](https://github.com/bolatov/leetcode/commit/0e2c2dcc726277f30c44135c3e41de2135b99eeb)
+2. [Leetcode 86. Partition List](https://github.com/bolatov/leetcode/commit/54baaaf0e5eb82e2443de0eecd6866001fb2ff0b)
