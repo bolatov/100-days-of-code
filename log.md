@@ -93,3 +93,8 @@
 
 **Link(s) to work**
 1. [Leetcode 84. Largest Rectangle in Histogram](https://github.com/bolatov/leetcode/commit/bbb1b6a47b39259075499476b7d314d4853d021b)
+
+### Day 15: August 2, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 74. Search a 2D Matrix](https://github.com/bolatov/leetcode/commit/0e2c2dcc726277f30c44135c3e41de2135b99eeb)
