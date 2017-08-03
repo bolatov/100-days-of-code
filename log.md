@@ -100,3 +100,8 @@
 1. [Leetcode 74. Search a 2D Matrix](https://github.com/bolatov/leetcode/commit/0e2c2dcc726277f30c44135c3e41de2135b99eeb)
 2. [Leetcode 86. Partition List](https://github.com/bolatov/leetcode/commit/54baaaf0e5eb82e2443de0eecd6866001fb2ff0b)
 3. [Leetcode 397. Integer Replacement](https://github.com/bolatov/leetcode/commit/d2087312c6cd9113145cc8b820e977c47bda7171)
+
+### Day 16: August 3, Thursday
+
+**Link(s) to work**
+1. [Leetcode 63. Unique Paths II](https://github.com/bolatov/leetcode/commit/822ce93d593fbdf467a554ed8e9135e296a7847d)
