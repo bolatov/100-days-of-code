@@ -108,3 +108,8 @@
 2. [Leetcode 116. Populating Next Right Pointers in Each Node](https://github.com/bolatov/leetcode/commit/be1da08b6904f7e29ad3f4480d6120991e74b017)
 3. [Leetcode 117. Populating Next Right Pointers in Each Node II](https://github.com/bolatov/leetcode/commit/7b8a111941088c16ad8010c715f1b03c4110ee70)
 4. [Leetcode 47. Permutations II](https://github.com/bolatov/leetcode/commit/93e7bd1f65d46cc153563d68caf59005da4c1095)
+
+### Day 17: August 8, Tuesday
+
+**Link(s) to work**
+1. [Leetcode 39. Combination Sum](https://github.com/bolatov/leetcode/commit/c0ef8bdf9295308dd44bf8d86757f90b71608b9d)
