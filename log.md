@@ -119,3 +119,4 @@
 **Link(s) to work**
 1. [Leetcode 15. 3Sum](https://github.com/bolatov/leetcode/commit/ac7948534876174ac9508483c6dfab848d6faf32)
 2. [Leetcode 40. Combination Sum II](https://github.com/bolatov/leetcode/commit/5df1728d5b9135e849c0e9c9ba70e7875d07edf0)
+3. [Leetcode 216. Combination Sum III](https://github.com/bolatov/leetcode/commit/a395c0e3d8a88627cb3bd682ab0b019d4d68e2ff)
