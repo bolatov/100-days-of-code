@@ -113,3 +113,8 @@
 
 **Link(s) to work**
 1. [Leetcode 39. Combination Sum](https://github.com/bolatov/leetcode/commit/c0ef8bdf9295308dd44bf8d86757f90b71608b9d)
+
+### Day 18: August 9, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 15. 3Sum](https://github.com/bolatov/leetcode/commit/ac7948534876174ac9508483c6dfab848d6faf32)
