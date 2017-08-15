@@ -125,3 +125,8 @@
 
 **Link(s) to work**
 1. [Leetcode 241. Different Ways to Add Parentheses](https://github.com/bolatov/leetcode/commit/f433a44acf6b0edcd265a48468ab117dd10b845c)
+
+### Day 20: August 15, Tuesday
+
+**Link(s) to work**
+1. [Leetcode 53. Maximum Subarray](https://github.com/bolatov/leetcode/commit/6195bab43bd53b88a459748609e79cb6ce49a616)
