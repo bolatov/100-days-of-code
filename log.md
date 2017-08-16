@@ -130,3 +130,8 @@
 
 **Link(s) to work**
 1. [Leetcode 53. Maximum Subarray](https://github.com/bolatov/leetcode/commit/6195bab43bd53b88a459748609e79cb6ce49a616)
+
+### Day 21: August 16, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 221. Maximal Square](https://github.com/bolatov/leetcode/commit/33b602d53568693ec63f9025b990c9b844cb01dc)
