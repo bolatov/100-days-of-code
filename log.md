@@ -135,3 +135,8 @@
 
 **Link(s) to work**
 1. [Leetcode 221. Maximal Square](https://github.com/bolatov/leetcode/commit/33b602d53568693ec63f9025b990c9b844cb01dc)
+
+### Day 22: August 17, Thursday
+
+**Link(s) to work**
+1. [Leetcode 96. Unique Binary Search Trees](https://github.com/bolatov/leetcode/commit/f19be9ebf7a053935fda119e8ac61aa08919e025)
