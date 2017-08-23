@@ -145,3 +145,4 @@
 
 **Link(s) to work**
 1. [Leetcode 67. Add Binary](https://github.com/bolatov/leetcode/commit/411a5809e8197c866d95c1a398608c55b35ba6e0)
+2. [Leetcode 101. Symmetric Tree](https://github.com/bolatov/leetcode/commit/6f4a692243467d55feec80fee6b69be2723c99c3)
