@@ -140,3 +140,8 @@
 
 **Link(s) to work**
 1. [Leetcode 96. Unique Binary Search Trees](https://github.com/bolatov/leetcode/commit/f19be9ebf7a053935fda119e8ac61aa08919e025)
+
+### Day 23: August 23, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 67. Add Binary](https://github.com/bolatov/leetcode/commit/411a5809e8197c866d95c1a398608c55b35ba6e0)
