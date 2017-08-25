@@ -149,3 +149,8 @@
 3. [Leetcode 152. Maximum Product Subarray](https://github.com/bolatov/leetcode/commit/6963fb258c9c01f3ebd2fe25536e254b2ec2c54a)
 4. [Leetcode 322. Coin Change](https://github.com/bolatov/leetcode/commit/a318774e0e1cf48b158925101aac39b69c3142b8)
 5. [Leetcode 13. Roman to Integer](https://github.com/bolatov/leetcode/commit/58f81bb333cfbcd311534e0d89e2d7a424eebebf)
+
+### Day 24: August 25, Friday
+
+**Link(s) to work**
+1. [Leetcode 371. Sum of Two Integers](https://github.com/bolatov/leetcode/commit/1df57e32715176e875330a0e95987eb75c6298c6)
