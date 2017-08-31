@@ -155,3 +155,8 @@
 **Link(s) to work**
 1. [Leetcode 371. Sum of Two Integers](https://github.com/bolatov/leetcode/commit/1df57e32715176e875330a0e95987eb75c6298c6)
 2. [Leetcode 447. Number of Boomerangs](https://github.com/bolatov/leetcode/commit/3d0a2154873ac1bb6469aa38be86920f0ceda219)
+
+### Day 25: August 31, Thursday
+
+**Link(s) to work**
+1. [Leetcode 284. Peeking Iterator](https://github.com/bolatov/leetcode/commit/eccee692721b193a2127bab1bda98033ca43e386)
