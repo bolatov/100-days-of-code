@@ -160,3 +160,8 @@
 
 **Link(s) to work**
 1. [Leetcode 284. Peeking Iterator](https://github.com/bolatov/leetcode/commit/eccee692721b193a2127bab1bda98033ca43e386)
+
+### Day 26: September 4, Monday
+
+**Link(s) to work**
+1. [Leetcode 167. Two Sum II - Input array is sorted](https://github.com/bolatov/leetcode/commit/15c9d2686875f56c4989bba24d05515c0275fe1b)
