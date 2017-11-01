@@ -165,3 +165,8 @@
 
 **Link(s) to work**
 1. [Leetcode 167. Two Sum II - Input array is sorted](https://github.com/bolatov/leetcode/commit/15c9d2686875f56c4989bba24d05515c0275fe1b)
+
+### Day 27: November 1, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 114. Flatten Binary Tree to Linked List](https://github.com/bolatov/leetcode/commit/b3d5176eb164136e592ef23c0da9519e9fc7f79d)
