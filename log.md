@@ -170,3 +170,4 @@
 
 **Link(s) to work**
 1. [Leetcode 114. Flatten Binary Tree to Linked List](https://github.com/bolatov/leetcode/commit/b3d5176eb164136e592ef23c0da9519e9fc7f79d)
+2. [Leetcode 120. Triangle](https://github.com/bolatov/leetcode/commit/3a2f31b6739f19ad81180556e07017d10d59d96e)
