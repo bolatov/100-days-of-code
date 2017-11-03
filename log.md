@@ -171,3 +171,9 @@
 **Link(s) to work**
 1. [Leetcode 114. Flatten Binary Tree to Linked List](https://github.com/bolatov/leetcode/commit/b3d5176eb164136e592ef23c0da9519e9fc7f79d)
 2. [Leetcode 120. Triangle](https://github.com/bolatov/leetcode/commit/3a2f31b6739f19ad81180556e07017d10d59d96e)
+
+### Day 28: November 3, Friday
+
+**Link(s) to work**
+1. [Leetcode 567. Permutation in String](https://github.com/bolatov/leetcode/commit/7ba878591767c3bd0ce0fbcc394e90d55f557ee5)
+
