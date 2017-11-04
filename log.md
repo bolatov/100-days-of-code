@@ -177,3 +177,8 @@
 **Link(s) to work**
 1. [Leetcode 567. Permutation in String](https://github.com/bolatov/leetcode/commit/7ba878591767c3bd0ce0fbcc394e90d55f557ee5)
 
+
+### Day 29: November 4, Saturday
+
+**Link(s) to work**
+1. [Leetcode 526. Beautiful Arrangement](https://github.com/bolatov/leetcode/commit/150f5a2b4b6b4bc1f49a9ea6d21bb19b56449543)
