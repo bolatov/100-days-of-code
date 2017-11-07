@@ -186,3 +186,4 @@
 
 **Link(s) to work**
 1. [Leetcode 51. N-Queens](https://github.com/bolatov/leetcode/commit/ad61c3193c4b31c6831abb254840dc764d019b0e)
+2. [Leetcode 52. N-Queens](https://github.com/bolatov/leetcode/commit/17e954a6b4a4db0b36def5b213e709ad684eb8ba)
