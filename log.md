@@ -188,3 +188,8 @@
 1. [Leetcode 51. N-Queens](https://github.com/bolatov/leetcode/commit/ad61c3193c4b31c6831abb254840dc764d019b0e)
 2. [Leetcode 52. N-Queens](https://github.com/bolatov/leetcode/commit/17e954a6b4a4db0b36def5b213e709ad684eb8ba)
 2. [Leetcode 89. Gray Code](https://github.com/bolatov/leetcode/commit/421364b9ac41f4d607ae0532136a46b8f453ef6e)
+
+### Day 31: November 8, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 717. 1-bit and 2-bit Characters](https://github.com/bolatov/leetcode/commit/b0df10e63df7661be09e2019eadd593b5b03b6a4)
