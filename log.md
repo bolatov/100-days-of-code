@@ -193,3 +193,9 @@
 
 **Link(s) to work**
 1. [Leetcode 717. 1-bit and 2-bit Characters](https://github.com/bolatov/leetcode/commit/b0df10e63df7661be09e2019eadd593b5b03b6a4)
+
+### Day 32: November 13, Monday
+
+**Link(s) to work**
+1. [Leetcode 162. Find Peak Element](
+https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb93c)
