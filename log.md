@@ -199,3 +199,4 @@
 **Link(s) to work**
 1. [Leetcode 162. Find Peak Element](
 https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb93c)
+2. [Leetcode 662. Maximum Width of Binary Tree](https://github.com/bolatov/leetcode/commit/b5502a7597698d032f465642e2c8e6be0adfcbe5)
