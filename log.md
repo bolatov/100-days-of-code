@@ -200,3 +200,8 @@
 1. [Leetcode 162. Find Peak Element](
 https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb93c)
 2. [Leetcode 662. Maximum Width of Binary Tree](https://github.com/bolatov/leetcode/commit/b5502a7597698d032f465642e2c8e6be0adfcbe5)
+
+### Day 33: November 22, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 611. Valid Triangle Number](https://github.com/bolatov/leetcode/commit/7cb0b7f8696b151fd23fdc4ec56ea30a08fdde14)
