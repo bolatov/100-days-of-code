@@ -215,3 +215,4 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 461. Hamming Distance](https://github.com/bolatov/leetcode/commit/eb2e632240fd00d384a1157b73ceba68604b200e)
+1. [Leetcode 477. Total Hamming Distance](https://github.com/bolatov/leetcode/commit/c8c7f28b7e7302831b42bf5b4206f26e52b9673a)
