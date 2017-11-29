@@ -226,3 +226,4 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 **Link(s) to work**
 1. [Leetcode 5. Longest Palindromic Substring](https://github.com/bolatov/leetcode/commit/fa3da7706f3e2ec02b6b6a0803f49188cfacd917)
 2. [Leetcode 516. Longest Palindromic Subsequence](https://github.com/bolatov/leetcode/commit/b6bf98963504796204eb1aa999178f90e6b811a8)
+3. [Leetcode 647. Palindromic Substrings](https://github.com/bolatov/leetcode/commit/69bca741101c0f96c741052f5b650cf51ba8721a)
