@@ -220,3 +220,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 4. [Leetcode 279. Perfect Squares](https://github.com/bolatov/leetcode/commit/eeaf62ac4c15040eda5550f7eea083f5c4293a1f)
 5. [Leetcode 623. Add One Row to Tree](https://github.com/bolatov/leetcode/commit/151645a42e63ec8f46e4865ac2d4236d34792b77)
 6. [Leetcode 072. Edit Distance](https://github.com/bolatov/leetcode/commit/aed10ab2c32c3533bba5a28bf3f055b538ade0b7)
+
+### Day 36: November 29, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 5. Longest Palindromic Substring](https://github.com/bolatov/leetcode/commit/fa3da7706f3e2ec02b6b6a0803f49188cfacd917)
