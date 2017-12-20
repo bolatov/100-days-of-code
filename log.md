@@ -233,3 +233,4 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 560. Subarray Sum Equals K](https://github.com/bolatov/leetcode/commit/39b5fc434aa073837ac835f80c2cf92dcf4b594e)
+2. [Leetcode 523. Continuous Subarray Sum](https://github.com/bolatov/leetcode/commit/bb39fb3b71767f8d1093b49b814c3ea157fc7726)
