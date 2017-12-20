@@ -228,3 +228,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 2. [Leetcode 516. Longest Palindromic Subsequence](https://github.com/bolatov/leetcode/commit/b6bf98963504796204eb1aa999178f90e6b811a8)
 3. [Leetcode 647. Palindromic Substrings](https://github.com/bolatov/leetcode/commit/69bca741101c0f96c741052f5b650cf51ba8721a)
 4. [Leetcode 494. Target Sum](https://github.com/bolatov/leetcode/commit/6ee51449ee85aad9873572af8a7112afc6818d3b)
+
+### Day 37: December 20, Wednesday
+
+**Link(s) to work**
+1. [Leetcode 560. Subarray Sum Equals K](https://github.com/bolatov/leetcode/commit/39b5fc434aa073837ac835f80c2cf92dcf4b594e)
