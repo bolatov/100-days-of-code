@@ -234,3 +234,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 **Link(s) to work**
 1. [Leetcode 560. Subarray Sum Equals K](https://github.com/bolatov/leetcode/commit/39b5fc434aa073837ac835f80c2cf92dcf4b594e)
 2. [Leetcode 523. Continuous Subarray Sum](https://github.com/bolatov/leetcode/commit/bb39fb3b71767f8d1093b49b814c3ea157fc7726)
+
+### Day 38: December 25, Monday
+
+**Link(s) to work**
+1. [Leetcode 746. Min Cost Climbing Stairs](https://github.com/bolatov/leetcode/commit/90b3ad68eaffecc31580e4a21a0dfce301c4e642)
