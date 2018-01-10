@@ -245,3 +245,4 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 **Link(s) to work**
 1. [Leetcode 537. Complex Number Multiplication](
 https://github.com/bolatov/leetcode/commit/9ef7ac20f33918f13164713672f6504a0e0979f7)
+2. [Leetcode 375. Guess Number Higher or Lower II](https://github.com/bolatov/leetcode/commit/877ba6816c2ffdd51217c0133b566c7bb675b6fe)
