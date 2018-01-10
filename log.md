@@ -239,3 +239,9 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 746. Min Cost Climbing Stairs](https://github.com/bolatov/leetcode/commit/90b3ad68eaffecc31580e4a21a0dfce301c4e642)
+
+### Day 39: Monday, January 10, 2018
+
+**Link(s) to work**
+1. [Leetcode 537. Complex Number Multiplication](
+https://github.com/bolatov/leetcode/commit/9ef7ac20f33918f13164713672f6504a0e0979f7)
