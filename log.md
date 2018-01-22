@@ -250,3 +250,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 413. Arithmetic Slices](https://github.com/bolatov/leetcode/commit/dddabb7b6cc5527f34981b06495db511136ef375)
+
+### Day 41: Monday, January 22, 2018
+
+**Link(s) to work**
+1. [Leetcode 200. Number of Islands](https://github.com/bolatov/leetcode/commit/b35050a1182886a38974fbbf6686911b38c7bf9d)
