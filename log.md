@@ -255,3 +255,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 200. Number of Islands](https://github.com/bolatov/leetcode/commit/b35050a1182886a38974fbbf6686911b38c7bf9d)
+
+### Day 42: Tuesday, January 23, 2018
+
+**Link(s) to work**
+1. [Leetcode 306. Additive Number](https://github.com/bolatov/leetcode/commit/0d0a74be8adbbabfabfe6795e240579959600cde)
