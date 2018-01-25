@@ -260,3 +260,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 306. Additive Number](https://github.com/bolatov/leetcode/commit/0d0a74be8adbbabfabfe6795e240579959600cde)
+
+### Day 43: Thursday, January 25, 2018
+
+**Link(s) to work**
+1. [Leetcode 55. Jump Game](https://github.com/bolatov/leetcode/commit/c6589ec59f18a5477f76a8b49dea9a96e5d23452)
