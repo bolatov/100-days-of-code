@@ -265,3 +265,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 55. Jump Game](https://github.com/bolatov/leetcode/commit/c6589ec59f18a5477f76a8b49dea9a96e5d23452)
+
+### Day 44: Friday, January 26, 2018
+
+**Link(s) to work**
+1. [Leetcode 236. Lowest Common Ancestor of a Binary Tree](https://github.com/bolatov/leetcode/commit/31ebe0ddf82b638742494d903aa094bda5f8dd03)
