@@ -271,3 +271,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 **Link(s) to work**
 1. [Leetcode 236. Lowest Common Ancestor of a Binary Tree](https://github.com/bolatov/leetcode/commit/31ebe0ddf82b638742494d903aa094bda5f8dd03)
 2. [Leetcode 648. Replace Words](https://github.com/bolatov/leetcode/commit/50366ec6d7d08d09a64c0eb24ab9ed5909a14013)
+
+### Day 45: Monday, January 29, 2018
+
+**Link(s) to work**
+1. [Leetcode 227. Basic Calculator II](https://github.com/bolatov/leetcode/commit/83d90a7184236c4a36d4a7ac5ee898d0cc4b5663)
