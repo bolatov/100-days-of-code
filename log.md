@@ -276,3 +276,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 227. Basic Calculator II](https://github.com/bolatov/leetcode/commit/83d90a7184236c4a36d4a7ac5ee898d0cc4b5663)
+
+### Day 46: Monday, January 31, 2018
+
+**Link(s) to work**
+1. [Leetcode 224. Basic Calculator](https://github.com/bolatov/leetcode/commit/f7c61c7dd18f6075e6f6b3889aca869e3267d531)
