@@ -281,3 +281,4 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 224. Basic Calculator](https://github.com/bolatov/leetcode/commit/f7c61c7dd18f6075e6f6b3889aca869e3267d531)
+2. [Leetcode 530. Minimum Absolute Difference in BST](https://github.com/bolatov/leetcode/commit/e096ca5f40498cdaf98c4417ec9bb2e1c1d289e8)
