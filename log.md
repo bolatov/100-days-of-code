@@ -282,3 +282,8 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 **Link(s) to work**
 1. [Leetcode 224. Basic Calculator](https://github.com/bolatov/leetcode/commit/f7c61c7dd18f6075e6f6b3889aca869e3267d531)
 2. [Leetcode 530. Minimum Absolute Difference in BST](https://github.com/bolatov/leetcode/commit/e096ca5f40498cdaf98c4417ec9bb2e1c1d289e8)
+
+### Day 47: Friday, February 2, 2018
+
+**Link(s) to work**
+1. [Leetcode 671. Second Minimum Node In a Binary Tree](https://github.com/bolatov/leetcode/commit/0348dc29e278a8f6389e453f8f931a11ada39e8f)
