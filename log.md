@@ -287,3 +287,10 @@ https://github.com/bolatov/leetcode/commit/202373299288fed23f71a497cc5e1f95099eb
 
 **Link(s) to work**
 1. [Leetcode 671. Second Minimum Node In a Binary Tree](https://github.com/bolatov/leetcode/commit/0348dc29e278a8f6389e453f8f931a11ada39e8f)
+
+### Day 48: Tuesday, February 27, 2018
+
+**Link(s) to work**
+1. [Leetcode 508. Most Frequent Subtree Sum]()
+2. [Leetcode 791. Custom Sort String]()
+3. [Leetcode 763. Partition Labels]()
